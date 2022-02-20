@@ -10,5 +10,5 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:tsamsonov/real-world-vue.git master:gh-pages
+git push -f git@github.com:tsamsonov/touring-vue-router-sandbox.git master:gh-pages
 cd -
